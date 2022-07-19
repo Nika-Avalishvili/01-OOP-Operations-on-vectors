@@ -19,7 +19,7 @@ GEO 🇬🇪
 __________________________________________________________________________________
 ENG 🇺🇸 
 
-Subject: object-oriented programming, polymorphism
+Subject: Object-oriented programming, Polymorphism
 
 1. In the beginning, the program asks the user in the menu what operation
    wants to do: add, subtract, multiply or divide;
